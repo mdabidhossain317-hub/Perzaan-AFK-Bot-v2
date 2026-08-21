@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "RESHAD_709.aternos.me",
-    "port": 25915,
+    "ip": "reshad709.aternos.me",
+    "port": 19103,
     "version": "1.21.1"
   },
   "position": {
